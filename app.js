@@ -6,7 +6,7 @@ app.get('/', function (req, res) {
 app.listen(3001, function () {
   console.log('Example app listening on port 3001!. Congrats !');
   console.log('This is a random text');
-  console.log('This is a fresh text');
+  console.log('This is a new text');
 
 });
 
